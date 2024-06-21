@@ -6,11 +6,11 @@
 
 # Tourify
 
-![Tourify Logo](https://storage.googleapis.com/tourifyapp-bucket/tourify-images/image-default/tourify-logo.png)
+![Tourify Logo](https://storage.googleapis.com/tourifyapp-bucket/tourify-images/image-default/tourify-logo(2).png)
 
 ## Theme
 **Digital Experiences: Revolutionizing Sustainable Tourism**
-
+ 
 ## Project Overview
 Tourify is a mobile app that aims to revolutionize travel planning in Indonesia. It offers recommendations on the most popular tourist attractions, making it easy and enjoyable for travelers to explore the beauty of Indonesia. Our goal is to be a reliable companion for those looking to discover various cities across the archipelago. Tourify focuses not only on amazing tourist attractions but also on the cultural diversity, natural beauty, and culinary delights that make Indonesia unique.
 
@@ -34,6 +34,7 @@ Tourify is a mobile app that aims to revolutionize travel planning in Indonesia.
 ## Screenshot
 
 ## Video Demo
+(https://youtu.be/Byt2v4f1Lh0)
 
 ## Download Our Apps
 You can download here : (https://drive.google.com/file/d/1wyCUt-KBpHcCkGbW-C4zrBS6NfnzryOQ/view?usp=drive_link)
