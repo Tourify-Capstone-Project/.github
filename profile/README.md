@@ -31,8 +31,6 @@ Tourify is a mobile app that aims to revolutionize travel planning in Indonesia.
 | A117D4KX4387   | Rachma Fadhillah Prasetyo      | Mobile Development |Institut Teknologi Nasional Bandung | [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/rachma-fadhillah/)          |
 
 
-## Screenshot
-
 ## Video Demo
 (https://youtu.be/Byt2v4f1Lh0)
 
