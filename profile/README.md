@@ -34,3 +34,4 @@ Tourify is a mobile app that aims to revolutionize travel planning in Indonesia.
 ## Video Demo
 
 ## Download Our Apps
+You can download here : (https://drive.google.com/file/d/1wyCUt-KBpHcCkGbW-C4zrBS6NfnzryOQ/view?usp=drive_link)
