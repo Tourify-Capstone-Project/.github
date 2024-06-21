@@ -1,6 +1,8 @@
 # Bangkit Capstone Project
-**Capstone project for Bangkit 2024 Batch 1**
-**Team ID: C241-PS285 Project Name: Tourify**
+
+## Capstone project for Bangkit 2024 Batch 1
+
+## Team ID: C241-PS285 Project Name: Tourify
 
 # Tourify
 
