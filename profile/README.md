@@ -16,7 +16,7 @@ Tourify is a mobile app that aims to revolutionize travel planning in Indonesia.
 
 ## Team Member
 
-![Team_Member]([https://storage.googleapis.com/tourifyapp-bucket/tourify-images/image-default/tourify-logo.png](https://storage.googleapis.com/tourifyapp-bucket/tourify-images/image-default/tourify-Our_Team_Member.png))
+![Team_Member](https://storage.googleapis.com/tourifyapp-bucket/tourify-images/image-default/tourify-Our_Team_Member.png)
 
 | Bangkit ID     | Name                           | Learning Path      | University 
 |----------------|--------------------------------|--------------------|
