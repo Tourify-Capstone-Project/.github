@@ -1,12 +1,12 @@
-## Hi there 👋
+# Tourify
 
-<!--
+![Tourify Logo]()
 
-**Here are some ideas to get you started:**
+## Theme
+**Digital Experiences: Revolutionizing Sustainable Tourism**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Project Overview
+Tourify is a mobile app that aims to revolutionize travel planning in Indonesia. It offers recommendations on the most popular tourist attractions, making it easy and enjoyable for travelers to explore the beauty of Indonesia. Our goal is to be a reliable companion for those looking to discover various cities across the archipelago. Tourify focuses not only on amazing tourist attractions but also on the cultural diversity, natural beauty, and culinary delights that make Indonesia unique.
+
+# Team Member
+
